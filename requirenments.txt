@@ -1,0 +1,7 @@
+notebook
+matplotlib
+numpy
+pandas
+altair
+vl-convert-python
+
